@@ -52,12 +52,12 @@
     display: inline-block;
     color:white;
     height:500px;
-    width: 600px;
+    width: 45%;
     margin:30px;
 }
 .footer img{
-    margin:50px;
+    margin:1%;
     height:400px;
-    width:600px;
+    width:45%;
     display: inline-block;
 }
