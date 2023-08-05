@@ -10,11 +10,14 @@
     color: white;
 
 }
+.frame{
+    height:500px;
+}
 
 .frame img{
     display:inline-block ;
-    height: 500px;
-    width:450px;
+    height: 90%;
+    width:29%;
     padding:10px;
     margin:20px;
 
@@ -51,13 +54,15 @@
 .footer p{
     display: inline-block;
     color:white;
-    height:500px;
-    width: 45%;
+  width: 45%;
     margin:30px;
 }
 .footer img{
     margin:1%;
-    height:400px;
+    /* height:400px; */
     width:45%;
     display: inline-block;
 }
+div {
+    display: block;
+  }
